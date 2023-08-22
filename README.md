@@ -1,0 +1,2 @@
+# exp
+Analise exploratória básica
